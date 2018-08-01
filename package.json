@@ -1,0 +1,13 @@
+{
+  "name": "wmcc-skiplist",
+  "version": "1.0.0-beta.1",
+  "description": "WMCC SkipList - WMCC Exchange Util",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "./lib/wmcc-skiplist.js",
+  "scripts": {
+    "test": "node ./test/wmcc-skiplist"
+  }
+}
