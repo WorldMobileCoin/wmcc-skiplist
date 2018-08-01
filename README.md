@@ -9,7 +9,7 @@ __NOTE__: The first release of wmcc-skiplist.
 Utility for WMCC-Exchange.
 
 ### Usage:
-```
+```js
 const Skiplist = require('wmcc-skiplist');
 
 const list = new Skiplist({
