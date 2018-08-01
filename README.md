@@ -13,7 +13,7 @@ Utility for WMCC-Exchange.
 const Skiplist = require('wmcc-skiplist');
 
 const list = new Skiplist({
-  cmp: function(a, b) {
+  compare: function(a, b) {
     return a === b;
   }
 });
