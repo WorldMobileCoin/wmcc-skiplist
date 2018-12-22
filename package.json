@@ -2,6 +2,12 @@
   "name": "wmcc-skiplist",
   "version": "1.0.0-beta.1",
   "description": "WMCC SkipList - WMCC Exchange Util",
+  "repository": "git://github.com/worldmobilecoin/wmcc-skiplist.git",
+  "homepage": "https://github.com/worldmobilecoin/wmcc-skiplist",
+  "bugs": {
+    "url": "https://github.com/worldmobilecoin/wmcc-skiplist/issues"
+  },
+  "author": "ParkAlter@WorldMobileCoin <worldmobilecoin@gmail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=8.0.0"
